@@ -1,0 +1,29 @@
+/* Sicilia-Modern - Mediterranean color palette */
+
+.media-skin[data-theme="scaffold"] {
+  /* Main colors */
+  --media-background: #101b2d;
+  --media-foreground: #f5efe3;
+
+  /* Mediterranean accent */
+  --media-accent: #c66b45;
+  --media-accent-foreground: #ffffff;
+  --media-primary: #c66b45;
+  --media-primary-foreground: #ffffff;
+
+  /* Controls and menus */
+  --media-controls: rgb(16 27 45 / 0.92);
+  --media-controls-foreground: #f5efe3;
+  --media-muted: #34445a;
+  --media-popover: #1c2b40;
+  --media-popover-foreground: #f5efe3;
+
+  /* Player details */
+  --media-video-border-radius: 12px;
+  --media-control-radius: 8px;
+  -radius: 12p--media-controlsx;
+  --media-menu-item-radius: 8px;
+  --media-popup-radius: 10px;
+  --media-dialog-radius: 12px;
+  --media-button-highlight: rgb(198 107 69 / 0.25);
+}
